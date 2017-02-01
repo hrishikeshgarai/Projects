@@ -1,1 +1,1 @@
-#This is my repo
+#This is my repository. Work in progress!
