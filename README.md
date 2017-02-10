@@ -6,6 +6,6 @@ The repository has five folders: Python, C++, VHDL, C and Java.
 
 Python has few codes which are a part of my ongoing course, High Speed Networks. Others are independent from my coursework and belong to HackerRank. Codes in C are specific to the graduate course Real-Time Embedded Systems. All codes in C++ and VHDL are from my graduate courses Computer Architecture and Advanced Hardware Design respectively. Java codes are independent of my graduate coursework.
 
-PS: VHDL, Java and C programs are yet to be uploaded and will be done soon!
+PS: I am in the process of updating my repository and more Python codes will be uploaded shortly! VHDL, Java and C programs are yet to be uploaded and will be done soon!
 
 
